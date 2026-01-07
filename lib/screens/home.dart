@@ -129,6 +129,9 @@ AppBar _buildAppBar() {
   );
 }
 
+void mainFunc(){
+  print("ok");
+}
 Widget searchBox() {
   return Container(
     padding: EdgeInsets.symmetric(horizontal: 15),
